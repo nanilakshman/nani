@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+sum=a+b
+m=a*b
+d=a/b
+s=a-b
+mod=a%b
+print(sum)
+print(m)
+print(d)
+print(s)
+print(mod)
